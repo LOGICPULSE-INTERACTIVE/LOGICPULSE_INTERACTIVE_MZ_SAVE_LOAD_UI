@@ -1,6 +1,6 @@
 /*:
  * @target MZ
- * @plugindesc LOGICPULSE Interactive Save/Load UI (18‑slot custom scene)
+ * @plugindesc LOGICPULSE Interactive - Modern Save/Load UI for RPG Maker MZ.
  * @author LOGICPULSE
  * @version 1.0.0
  *

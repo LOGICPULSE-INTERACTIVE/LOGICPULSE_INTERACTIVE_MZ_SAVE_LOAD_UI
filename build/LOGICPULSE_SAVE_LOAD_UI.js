@@ -1,6 +1,6 @@
 /*:
  * @target MZ
- * @plugindesc Modern Cyberpunk SAVE/LOAD UI for RPG Maker MZ
+ * @plugindesc Modern SAVE/LOAD UI for RPG Maker MZ
  * @author LOGICPULSE
  * @version 0.1.0
  *
@@ -16,7 +16,7 @@
  *
  * Edit the files inside /src instead.
  *
- * Build Date: 2026-07-25T14:54:17.092Z
+ * Build Date: 2026-07-25T16:13:01.258Z
  * ============================================================================
  */
 
@@ -29,9 +29,9 @@
 
 /*:
  * @target MZ
- * @plugindesc LOGICPULSE Interactive Save/Load UI (18‑slot custom scene)
+ * @plugindesc LOGICPULSE Interactive - Modern Save/Load UI for RPG Maker MZ.
  * @author LOGICPULSE
- * @version 0.1.0
+ * @version 1.0.0
  *
  * @help
  * ============================================================================
@@ -286,7 +286,7 @@
 window.LOGICPULSE = window.LOGICPULSE || {};
 LOGICPULSE.Version = {
     plugin: "LOGICPULSE_INTERACTIVE_MZ_SAVE_LOAD_UI",
-    version: "0.1.0"
+    version: "1.0.0"
 };
 
 
