@@ -1,7 +1,7 @@
 # LOGICPULSE Interactive MZ Save/Load UI
 
 #### 👤 Author: LOGICPULSE INTERACTIVE
-A fully customisable, modern Save/Load UI for RPG Maker MZ – replaces the default scene with a sleek 18‑slot grid, mouse & keyboard support, and per‑slot metadata.
+A fully customisable, modern Save/Load UI for RPG Maker MZ – replaces the default scene, mouse & keyboard support, and per‑slot metadata.
 
 ![Screenshot](docs/screenshot.png)
 
@@ -68,7 +68,7 @@ Sound – custom SE filenames for cursor, OK, cancel, and buzzer.
 4. In RPG Maker MZ, open the **Plugin Manager** and add the plugin.
 5. Ensure the image assets are placed in the correct folder (see **Assets** above).
 6. Enable the plugin and save your project.
-7.To open the Save/Load scene from an event, use the script call:
+7. To open the Save/Load scene from an event, use the script call:
 `SceneManager.push(LOGICPULSE.Scenes.SaveLoad);`
 
 ---
