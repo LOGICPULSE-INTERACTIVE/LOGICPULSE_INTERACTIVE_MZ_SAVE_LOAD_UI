@@ -1,7 +1,6 @@
 # LOGICPULSE Interactive MZ Save/Load UI
 
-## 👤 Author: LOGICPULSE INTERACTIVE
-
+#### 👤 Author: LOGICPULSE INTERACTIVE
 A fully customisable, modern Save/Load UI for RPG Maker MZ – replaces the default scene with a sleek 18‑slot grid, mouse & keyboard support, and per‑slot metadata.
 
 ![Screenshot](docs/screenshot.png)
