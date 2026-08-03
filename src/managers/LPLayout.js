@@ -7,13 +7,13 @@ LOGICPULSE.Layout.SaveLoad = {
 
     Tabs: {
         SaveTab: {
-            x: 269,
+            x: 313,
             y: 117,
             width: 390,
             height: 98
         },
         LoadTab: {
-            x: 544,
+            x: 578,
             y: 117,
             width: 390,
             height: 98
@@ -21,8 +21,8 @@ LOGICPULSE.Layout.SaveLoad = {
     },
 
     Grid: {
-        rect: { x: 280, y: 240, width: 644, height: 438 },
-        mask: { x: 280, y: 240, width: 644, height: 438 },
+        rect: { x: 320, y: 240, width: 644, height: 438 },
+        mask: { x: 320, y: 240, width: 644, height: 438 },
         PartyData: { x: 4, y: 3, spacingY: 5, align: "left"},
         TimeStamp: { x: 0, y: 15, align: "right",},
         columns: 2,
